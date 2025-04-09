@@ -39,4 +39,4 @@ In order to run this project, run this command:
 ```
 
 ## Collaborators
-- [Alessandro De Carli](https://github.com/https://github.com/Aledpl5)
+- [Alessandro De Carli](https://github.com/Aledpl5)
